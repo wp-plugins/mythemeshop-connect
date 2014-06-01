@@ -12,7 +12,7 @@ A simple and easy way to update your MyThemeShop themes and plugins to the the l
 
 == Description ==
 
-MyThemeShop connect is an automated theme updater that will upgrade <a href="https://mytheemshop.com/themes/">MyThemeShop themes</a> & plugins to their latest versions. The MyThemeShop Connect plugin is a useful plugin to help notify you about updates to MyThemeShop themes & plugins. This plugin is tested and working with all MyThemeShop themes & plugins and on both single and multi-site installations of WordPress.
+MyThemeShop connect is an automated theme updater that will upgrade <a href="https://mythemeshop.com/themes/">MyThemeShop themes</a> & plugins to their latest versions. The MyThemeShop Connect plugin is a useful plugin to help notify you about updates to MyThemeShop themes & plugins. This plugin is tested and working with all MyThemeShop themes & plugins and on both single and multi-site installations of WordPress.
 
 = Troubleshooting: =
 
