@@ -3,8 +3,8 @@ Contributors: mythemeshop
 Creator's website link: http://mythemeshop.com/
 Tags: mythemeshop connect, mythemeshop, mythemeshop update, theme update
 Requires at least: 3.0.1
-Tested up to: 3.9.1
-Stable tag: 1.1
+Tested up to: 4.0
+Stable tag: 1.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -12,7 +12,7 @@ A simple and easy way to update your MyThemeShop themes and plugins to the the l
 
 == Description ==
 
-MyThemeShop connect is an automated theme updater that will upgrade MyThemeShop themes & plugins to their latest versions. The MyThemeShop Connect plugin is a useful plugin to help notify you about updates to MyThemeShop themes & plugins. This plugin is tested and working with all MyThemeShop themes & plugins and on both single and multi-site installations of WordPress.
+MyThemeShop connect is an automated theme updater that will upgrade <a href="https://mythemeshop.com/themes/">MyThemeShop themes</a> & plugins to their latest versions. The MyThemeShop Connect plugin is a useful plugin to help notify you about updates to MyThemeShop themes & plugins. This plugin is tested and working with all MyThemeShop themes & plugins and on both single and multi-site installations of WordPress.
 
 = Troubleshooting: =
 
@@ -54,6 +54,17 @@ You can dismiss the update notification using close button present in notificati
 4. Updating Theme
 
 == Changelog ==
+
+= 1.2 (Sep 12, 2014) =
+* Fixed double notification issue for plugin updates.
+* Plugin Update notification will disappear once theme is updated.
+* Updated API
+* Fixed small bugs.
+
+= 1.1 (Jul 3, 2014) =
+* Fixed Double notification issue.
+* Update notification will disappear once theme is updated.
+* Fixed small bugs.
 
 = 1.0 =
 * Official plugin release.
