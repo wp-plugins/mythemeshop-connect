@@ -4,7 +4,7 @@ Creator's website link: http://mythemeshop.com/
 Tags: mythemeshop connect, mythemeshop, mythemeshop update, theme update
 Requires at least: 3.0.1
 Tested up to: 4.0
-Stable tag: 1.2
+Stable tag: 1.2.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -55,9 +55,12 @@ You can dismiss the update notification using close button present in notificati
 
 == Changelog ==
 
+= 1.2.1 (Oct 4, 2014) =
+* Fixed another double notification issue
+
 = 1.2 (Sep 12, 2014) =
 * Fixed double notification issue for plugin updates.
-* Plugin Update notification will disappear once theme is updated.
+* Plugin Update notification will disappear once plugin is updated.
 * Updated API
 * Fixed small bugs.
 
