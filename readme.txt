@@ -4,7 +4,7 @@ Creator's website link: http://mythemeshop.com/
 Tags: mythemeshop connect, mythemeshop, mythemeshop update, theme update
 Requires at least: 3.0.1
 Tested up to: 4.2
-Stable tag: 1.2.3
+Stable tag: 1.2.4
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -30,7 +30,7 @@ This section describes how to install the plugin and get it working.
 
 == Frequently Asked Questions ==
 
-= Plugin showing Double Notificatios =
+= Plugin showing Double Notifications =
 
 You can reset all the notifications easily by heading over to below URL http://yourdomain.com/wp-admin/index.php?page=mts-connect&reset_notices=1
 Replace yourdomain.com with your actual domain name.
@@ -54,6 +54,11 @@ You can dismiss the update notification using close button present in notificati
 4. Updating Theme
 
 == Changelog ==
+
+= 1.2.4 (Apr 21, 2015) =
+* Patched add_query_arg vulnerability issue
+* Fixed version details links on Updates page
+* Fixed theme update issue for themes using new folder name
 
 = 1.2.3 (Mar 15, 2015) =
 * Fixed - False “up to date” message for new theme updates.
