@@ -1,4 +1,4 @@
-=== MyThemeShop Connect ===
+=== MyThemeShop Theme/Plugin Updater ===
 Contributors: mythemeshop
 Creator's website link: http://mythemeshop.com/
 Tags: mythemeshop connect, mythemeshop, mythemeshop update, theme update
