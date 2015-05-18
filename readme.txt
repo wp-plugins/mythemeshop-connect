@@ -4,7 +4,7 @@ Creator's website link: http://mythemeshop.com/
 Tags: mythemeshop connect, mythemeshop, mythemeshop update, theme update
 Requires at least: 3.0.1
 Tested up to: 4.2
-Stable tag: 1.2.5
+Stable tag: 1.2.6
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -54,6 +54,9 @@ You can dismiss the update notification using close button present in notificati
 4. Updating Theme
 
 == Changelog ==
+
+= 1.2.6 (May 19, 2015) =
+* Updated Plugin name.
 
 = 1.2.5 (Apr 30, 2015) =
 * Small notification API fix
